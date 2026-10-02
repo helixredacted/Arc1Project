@@ -17,6 +17,7 @@ public class Creatures {
     private int speedStat;
     private String nature;
 
+    //yo
 
     public Creatures(String name, String creature, int level) {
         this.name = name;
