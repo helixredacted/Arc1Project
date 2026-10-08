@@ -18,6 +18,7 @@ public class Creatures {
     private String nature;
 
     //yo
+    //new
 
     public Creatures(String name, String creature, int level) {
         this.name = name;
